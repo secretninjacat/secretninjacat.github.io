@@ -22,8 +22,8 @@ title: secretninjacat
 email: cat@secretninjacat.com
 description: >- # this means to ignore newlines until "baseurl:"
   In-progress website for streamer and tech enjoyer, secretninjacat.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://secretninjacat.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/ninjacatsite/" # the subpath of your site, e.g. /blog
+url: "secretninjacat.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username:  secretninjacat
 
