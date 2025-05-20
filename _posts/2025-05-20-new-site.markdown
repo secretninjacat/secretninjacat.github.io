@@ -4,7 +4,7 @@ title:  "New Website!"
 date:   2025-05-20 04:32:04 -0400
 categories: tech
 ---
-Tonight started as wanting to catch up on some leveling in WoW. Got a note from one of my mods that they couldn't add discord roles '(thanks ant').
+Tonight started as wanting to catch up on some leveling in WoW. Got a note from one of my mods that they couldn't add discord roles (thanks ant).
 
 Reminded me that I needed to finish setting up my discord bot. Started working on that and saw the options for adding your own hosted app functionality to the bot by adding your application url, which also reminded me that I hadn't yet renewed the domain for 'secretninjacat' and 'secretninjakat' (one day I hope I can snag secretninjacat for my twitch handle...alas someone is still holding onto it somehow after years of checking).
 
