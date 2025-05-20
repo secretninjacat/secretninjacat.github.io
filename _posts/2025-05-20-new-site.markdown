@@ -17,7 +17,3 @@ Created a static webpage, github pages/jekyll site??? - I guess check????
 ADHD is a wild thing sometimes.
 
 -Cat
-
-Check out my twitch at [twitch.tv/secretninjakat][ninjacat-twitch]. Guaranteed to be chaotic.
-[ninjacat-twitch]: https://twitch.tv/secretninjakat
-
